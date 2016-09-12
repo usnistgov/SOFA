@@ -8,7 +8,7 @@ the emerging question is “which technology fits my risk environment, today?”
 method for comparing and combining authentication mechanisms, in part due to this wide array of technologies that are available. 
 However, the establishment of a common framework for measuring, comparing, and combining (such as in multi-factor implementations) 
 authenticator strength could enable greater alignment of identity practices with organizational risk andpromote greater federation 
-and interoperability across sectors, markets, and enterprises.  At a workshop event  on January 12 and 13, 2016, NIST 
+and interoperability across sectors, markets, and enterprises.  At a workshop event<sup>1</sup>  on January 12 and 13, 2016, NIST 
 presented a proposed starting point for this framework with a focus on biometric technologies. This paper represents a further 
 refinement of this work and outlines a process intended to support the evaluation of biometric authenticators 
 and—ultimately—multiple different authentication mechanisms. 
@@ -51,3 +51,6 @@ The framework considers two attack perspectives (“zero-information” and “t
 the approach to this framework is modality agnostic and intended to be flexible to suit an organization’s own 
 unique environment and needs. 
 
+
+
+<sup>1</sup>“Advanced Identity Workshop: Applying Measurement Science in the Identity Ecosystem” at NIST’s Gaithersburg, MD campus.
