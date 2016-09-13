@@ -1,4 +1,4 @@
-## 2. FMR and PADER Testing
+## 2. Analaysis of Strength of Biometric Authentication
 During authentication, a typical biometric system follows a flow whereby:
 
 1.	A biometric pattern is presented.
