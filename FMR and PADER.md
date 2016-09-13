@@ -1,4 +1,4 @@
-## FMR and PADER Testing
+## 2. FMR and PADER Testing
 During authentication, a typical biometric system follows a flow whereby:
 
 1.	A biometric pattern is presented.
@@ -36,6 +36,22 @@ This equation considers a “zero-information” or *“a priori”* attack scen
 
 ![](media/targetedsofa.png)
 
-### 3.1 Effort
+### 2.1. Effort
+[This section is a place holder. Contributions are welcome. And more will more developments will be inserted here following the GIS workshop on September 20, 2016.]
+
+The level of effort required to attack a biometric authentication system varies across the two scenarios under consideration:  “zero-information” and “targeted” attacks. The following table lists some of the potential factors and techniques that could affect the level of effort required for attacks on password/PIN-based systems and biometric-based systems. 
+
+| Password/PIN         | Biometrics     |
+| -------------------  |----------------|
+| Zero-information: <br> -Length and complexity | Zero-information: <br> -Sample size and complexity <br> -Access to sensor/device <br> -Computational complexity of matching         |  
+| Targeted: <br> -Shoulder surfing <br> -Checking notepads | Targeted: <br> -Retrieving the biometric sample <br> -Creating an artefact |
+
+Biometric attacks generally require more effort than attacks on PINs and passwords. Whereas the complexity of attacking a password with no prior information is based solely on the entropy of that password, “zero-information” biometric attacks may require determining the scope of the biometric sample based on factors such as:  creation of the sample and computational complexity. 
+
+We presume that “targeted” biometric attacks require obtaining a valid sample and recreating it for use during presentation, and this may also require substantial time, knowledge, and resources.
+
+How effort is determined is not yet established, though time, knowledge, and resources required for an attack may contribute to this measure. The potential consequences for an attacker being caught against the value gained from a successful attack may also be considered. However, any number of factors could be incorporated may vary across modalities. Future efforts may benefit from a normalized scale that spans across authenticator types for the purpose of comparison. 
+
+
 
 <sup>2</sup>Taken from ISO/IEC JTC 1/SC37 and other documents.
