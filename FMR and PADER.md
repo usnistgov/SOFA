@@ -59,8 +59,13 @@ Many of the vulnerabilities present within a biometric system, as illustrated in
 Content to be developed using information cited for NIST SP 800-63-3.
 
 <sup>3</sup> ISO19795-1
+
 <sup>4</sup> Also pulled from ISO19795-1.
+
 <sup>5</sup> Generalized best practices can be found in ISO19795-1 while guidance on modality-specific testing can be found in ISO19795-3.
+
 <sup>6</sup> Note that SOFA is intended to measure the strength of positive authentication use cases, when both authorized users and attackers want to gain positive logical or physical access. SOFA does not cover negative access, or watchlisting applications, when the attacker is incentivized to not be recognized.
+
 <sup>7</sup> ISO/IEC 30107-1:2016.
+
 <sup>8</sup> Defined as “measure of the effort to be expended in attacking a TOE, expressed in terms of an attacker's expertise, resources and motivation”.
