@@ -32,7 +32,7 @@ At the PAD subsystem level, this error rate is known as the Attack Presentation 
 #### 3.3.1. Measuring and Characterizing the Performance of PAD
 PAD error rates, such as IAPMR, must be determined through empirical testing.  The goal for PAD testing is to test a set of materials (Presentation Attack Instrument [PAI] species) that represent an attack potential level and determine the max error rate found among those materials.  
 
-Prior to testing, the initial step must be taken to identify the use case for the biometric product. The specific application will have an expected level of risk or attack potential<sup>8</sup, for which a set of PAI species should be evaluated to determine if the biometric system rejects all of the PAI species at or below a maximum threshold for IAPMR.  The max IAPMR across all tested PAI Species (PAIS) is the value to be used in the SOFA-B proportion for IAPMR.  In other words, the IAPMR that is used to characterize the expected PAD error at a given attack potential is the IAPMR of the most successful attack. 
+Prior to testing, the initial step must be taken to identify the use case for the biometric product. The specific application will have an expected level of risk or attack potential<sup>8</sup>, for which a set of PAI species should be evaluated to determine if the biometric system rejects all of the PAI species at or below a maximum threshold for IAPMR.  The max IAPMR across all tested PAI Species (PAIS) is the value to be used in the SOFA-B proportion for IAPMR.  In other words, the IAPMR that is used to characterize the expected PAD error at a given attack potential is the IAPMR of the most successful attack. 
 
 Attack potential levels may be associated with PAI Species that represent increasing levels of effort to mount an attack and/or a criteria for the following characteristics, to more broadly describe level of effort needed to mount an attack:  time; expertise; equipment; and source of the biometric characteristic.  Table 1 shows examples of both approaches.
 
@@ -57,3 +57,10 @@ Many of the vulnerabilities present within a biometric system, as illustrated in
 
 ### 4.1. 800-63-3
 Content to be developed using information cited for NIST SP 800-63-3.
+
+<sup>3</sup> ISO19795-1
+<sup>4</sup> Also pulled from ISO19795-1.
+<sup>5</sup> Generalized best practices can be found in ISO19795-1 while guidance on modality-specific testing can be found in ISO19795-3.
+<sup>6</sup> Note that SOFA is intended to measure the strength of positive authentication use cases, when both authorized users and attackers want to gain positive logical or physical access. SOFA does not cover negative access, or watchlisting applications, when the attacker is incentivized to not be recognized.
+<sup>7</sup> ISO/IEC 30107-1:2016.
+<sup>8</sup> Defined as “measure of the effort to be expended in attacking a TOE, expressed in terms of an attacker's expertise, resources and motivation”.
