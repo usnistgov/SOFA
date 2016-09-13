@@ -1,4 +1,4 @@
-# 6. References
+## 6. References
 
 MINEX04: http://www.nist.gov/customcf/get_pdf.cfm?pub_id=150619
 
