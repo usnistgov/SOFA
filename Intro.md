@@ -24,7 +24,7 @@ Strength of Function for Authenticators—or SOFA—framework is intended to add
 starting place for the effort. 
 
 
-### 2.1	PURPOSE
+### 2.1	Purpose
 This document proposes a framework for the measurement of biometric system strength and begins to consider its placement
 within a broader framework for strength of authentication. The framework is focused on positive authentication and one-to-one 
 comparisons (i.e., not identification applications such as watchlisting).
