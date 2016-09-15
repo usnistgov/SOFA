@@ -30,26 +30,10 @@ With FMR, PAD, and Effort serving as the major inputs, we state that SOFA is pro
 
 ![](media/zeroinfosofa.png)
 
-This equation considers a “zero-information” or *“a priori”* attack scenario where the attacker is not aiming to pose as a specific individual but is attempting to gain access by chance.  This is analogous to a "brute force" attack on passwords. The equation for a “targeted” attack scenario is changed to reflect that the attacker would likely create a sample that closely resembles an approved individual’s biometric characteristics and therefore the True Match Rate, or one less the False Non-Match Rate (FNMR), is a better approximation (than the FMR) for the probability of a successful attack.
+This equation represents a “zero-information” or “a priori” attack scenario where the attacker is not aiming to masquerade as a specific individual but is attempting to gain access by chance. In this case, a successful attack requires defeating the presentation attack detection (PAD) and having a successful match with the template in the system. This is analogous to a "brute force" attack on passwords. 
+
+The equation for a “targeted” attack scenario would be modified to reflect that, in this scenario, the attacker would create a sample that closely resembles an approved individual’s biometric characteristics. An attack in this scenario requires that the artifact used by the attacker defeats the PAD and that it is sufficiently close to the biometric sample represented by the template in the system. In this case, we state that SOFA is proportional to:
 
 ![](media/targetedsofa.png)
-
-### 2.1. Effort
-[This section is a place holder. Contributions are welcome. And more will more developments will be inserted here following the GIS workshop on September 20, 2016.]
-
-The level of effort required to attack a biometric authentication system varies across the two scenarios under consideration:  “zero-information” and “targeted” attacks. The following table lists some of the potential factors and techniques that could affect the level of effort required for attacks on password/PIN-based systems and biometric-based systems. 
-
-| Password/PIN         | Biometrics     |
-| -------------------  |----------------|
-| Zero-information: <br> -Length and complexity | Zero-information: <br> -Sample size and complexity <br> -Access to sensor/device <br> -Computational complexity of matching         |  
-| Targeted: <br> -Shoulder surfing <br> -Checking notepads | Targeted: <br> -Retrieving the biometric sample <br> -Creating an artefact |
-
-Biometric attacks generally require more effort than attacks on PINs and passwords. Whereas the complexity of attacking a password with no prior information is based solely on the entropy of that password, “zero-information” biometric attacks may require determining the scope of the biometric sample based on factors such as:  creation of the sample and computational complexity. 
-
-We presume that “targeted” biometric attacks require obtaining a valid sample and recreating it for use during presentation, and this may also require substantial time, knowledge, and resources.
-
-How effort is determined is not yet established, though time, knowledge, and resources required for an attack may contribute to this measure. The potential consequences for an attacker being caught against the value gained from a successful attack may also be considered. However, any number of factors could be incorporated may vary across modalities. Future efforts may benefit from a normalized scale that spans across authenticator types for the purpose of comparison. 
-
-
 
 <sup>2</sup>Inspired by vulnerability diagram in ISO/IEC 30107-1: 2016 and N.K. Ratha, J.H. Connell, R.M. Bolle, “Enhancing security and privacy in biometrics-based authentication systems,” IBM Systems Journal, Vol 40. NO 3, 2001.
