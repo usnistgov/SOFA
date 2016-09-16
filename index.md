@@ -10,7 +10,7 @@ description: "Discussion Draft of Strength of Function for Authenticators - Biom
 </section>
 
 
-Welcome to the Strength of Function for Authenticators-Biometrics (SOFA-B) Discussion Draft! We’re excited to share these early thoughts and collaborate on addressing some of its more challenging concepts and propositions! 
+Welcome to the Strength of Function for Authenticators - Biometrics (SOFA-B) Discussion Draft! We’re excited to share these early thoughts and collaborate on addressing some of its more challenging concepts and propositions! 
 The sections of the document can be easily navigated using the sidebar menu on the left of this page. 
 
 
