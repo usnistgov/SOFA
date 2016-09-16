@@ -1,11 +1,11 @@
 ---
 layout: cover
-title: "Strength of Authenticator Biometrics"
-description: "Discussion Draft of Strength of Authenticator Biometrics (SOFA-B) Framework"
+title: "Strength of Function for Authenticators - Biometrics"
+description: "Discussion Draft of Strength of Function for Authenticators - Biometrics (SOFA-B) Framework"
 ---
 <section class="home home-title" markdown="1">
 
-# Strength of Authenticator Biometrics (SOFA-B): Discussion Draft Open For Comments!
+# Strength of Function for Authenticators - Biometrics (SOFA-B): Discussion Draft Open For Comments!
 
 </section>
 
