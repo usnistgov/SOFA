@@ -42,10 +42,12 @@ Attack potential levels represent increasing levels of effort to mount an attack
 
 #### 3.3.2. Reporting, Considerations, and Principles for PAD testing
 Testing and reporting requirements for PAD testing are provided in ISO/IEC DIS 30107-3. There are additional aspects of testing that need to be considered to carry out an evaluation, including: 
+
 -	How many subjects should be represented in the N samples that are tested? Is it best to have as few as possible, as many as possible, or a diverse set with a small number of replicates per subject? 
 -	What size should N be for statistical significance? What amount of error can be tolerated?
 
 The following represent current best practices and principles for PAD testing:
+
 -	Testing by an independent party yields more reliable results for relying parties/consumers.
 -	PAD system performance may vary greatly in an evaluation depending on whether the PAIS are known or unknown to the producer of the biometric system. Therefore, specifics about some PAIS that will be tested should not be disclosed to the company submitting a product for testing. 
 -	Certification of PAD performance should be valid for only a limited period of time. 
