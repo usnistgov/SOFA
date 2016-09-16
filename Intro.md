@@ -12,6 +12,7 @@ Why choose biometrics as a starting point? As an ever-expanding number of transa
 This document proposes a framework for the measurement of biometric system strength and begins to consider its placement within a broader framework for strength of authentication. The framework is focused on positive authentication and one-to-one comparisons (i.e., not identification applications such as watch-list activities).
 
 By advancing the ability to measure the strength of authentication for biometrics within an evaluation framework, this document seeks to:
+
 -	Develop a greater understanding of the strength of biometric solutions.
 -	Improve the alignment of their use with organizational risk-based decisions.
 -	Enhance the ability of organizations to compare and combine different biometric and other authentication systems.
@@ -20,6 +21,7 @@ By advancing the ability to measure the strength of authentication for biometric
 Given organizations’ shift toward developing and implementing biometric solutions across a broad range of applications and channels, this framework is designed to provide a level of quantitative assurance to organizations that are seeking to use biometric technology to mitigate risk.
 
 This paper will:
+
 -	Present a **strength equation** to represent the **Strength of Function for Authenticators (SOFA)** with a focus on **SOFA-Biometrics (SOFA-B)**. SOFA-B includes variables for **False Match Rate (FMR)**, **Presentation Attack Detection Error Rate (PADER)**, and **Effort** required to perform the attack.
 -	Provide guidance for the **baseline security** required for authentication systems, so that areas not specific to biometric technologies are covered by core security controls **(good cyber hygiene)**.
 
