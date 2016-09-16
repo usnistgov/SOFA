@@ -42,10 +42,12 @@ Attack potential levels represent increasing levels of effort to mount an attack
 
 #### 3.3.2. Reporting, Considerations, and Principles for PAD testing
 Testing and reporting requirements for PAD testing are provided in ISO/IEC DIS 30107-3. There are additional aspects of testing that need to be considered to carry out an evaluation, including: 
+
 -	How many subjects should be represented in the N samples that are tested? Is it best to have as few as possible, as many as possible, or a diverse set with a small number of replicates per subject? 
 -	What size should N be for statistical significance? What amount of error can be tolerated?
 
 The following represent current best practices and principles for PAD testing:
+
 -	Testing by an independent party yields more reliable results for relying parties/consumers.
 -	PAD system performance may vary greatly in an evaluation depending on whether the PAIS are known or unknown to the producer of the biometric system. Therefore, specifics about some PAIS that will be tested should not be disclosed to the company submitting a product for testing. 
 -	Certification of PAD performance should be valid for only a limited period of time. 
@@ -63,27 +65,3 @@ Effort is listed as a third factor for the proposed SOFA measure as it has the p
 **[This section is a place holder. Contributions are welcome; and more developments will be inserted here following the GIS workshop on September 20, 2016.]**
 
 Many of the vulnerabilities present within a biometric system, as illustrated in the attack diagram in 2. *Equation/Ratio*, are mitigated in the same way as vulnerabilities for other technologies. The two broad categories of these vulnerabilities are protecting **data in transit** and **data at rest**.
-
-<sup>3</sup> National Institute of Standards and Technology, “NISTIR 7296 MINEX04: Performance and Interoperability of the INCITS 378 Finger Print Template,” March 21, 2006. http://spin1-www.nist.gov/customcf/get_pdf.cfm?pub_id=150619&_ga=1.248059719.1159721241.1435844400
-
-<sup>4</sup> ISO/IEC 19795-1:2006
-
-<sup>5</sup> ISO19795-1
-
-<sup>6</sup> ISO19795-1
-
-<sup>7</sup> Testing requirements for biometrics systems are also covered in: ISO/IEC 19795-1:2006, ISO/IEC 19795-2:2007, ISO/IEC TR 19795-3:2007, ISO/IEC 19795-4:2008, ISO/IEC 19795-5:2011, ISO/IEC 19795-6:2012, ISO/IEC 19795-7:2011
-
-<sup>8</sup> Generalized best practices can be found in ISO19795-1 while guidance on modality-specific testing can be found in ISO19795-3
-
-<sup>9</sup> ISO/IEC 30107-1:2016
-
-<sup>10</sup> ISO/IEC 30107-1:2016
-
-<sup>11</sup> Attack potential is defined in ISO/IEC DIS 30107-3 as “measure of the effort to be expended in attacking a TOE, expressed in terms of an attacker's expertise, resources and motivation.”
-
-<sup>12</sup> An independent lab may choose to combine the latter method with unknown PAIS that fall in the same attack potential level.
-
-<sup>13</sup> E. Newton, S. Schuckers, “Recommendations for Presentation Attack Detection: Mitigation of threats due to spoof attacks,” International Biometric Performance Conference, 2016.
-
-<sup>14</sup> Schuckers, Stephanie, "Presentations and attacks, and spoofs, oh my." Image and Vision Computing, April, 2016. http://www.sciencedirect.com/science/article/pii/S026288561630052X 

@@ -1,16 +1,16 @@
 ---
 layout: cover
-title: "Strength of Authenticator Biometrics"
-description: "Discussion Draft of Strength of Authenticator Biometrics (SOFA-B) Framework"
+title: "Strength of Function for Authenticators - Biometrics"
+description: "Discussion Draft of Strength of Function for Authenticators - Biometrics (SOFA-B) Framework"
 ---
 <section class="home home-title" markdown="1">
 
-# Strength of Authenticator Biometrics (SOFA-B): Discussion Draft Open For Comments!
+# Strength of Function for Authenticators - Biometrics (SOFA-B): Discussion Draft Open For Comments!
 
 </section>
 
 
-Welcome to the Strength of Function for Authenticators-Biometrics (SOFA-B) Discussion Draft! We’re excited to share these early thoughts and collaborate on addressing some of its more challenging concepts and propositions! 
+Welcome to the Strength of Function for Authenticators - Biometrics (SOFA-B) Discussion Draft! We’re excited to share these early thoughts and collaborate on addressing some of its more challenging concepts and propositions! 
 The sections of the document can be easily navigated using the sidebar menu on the left of this page. 
 
 
