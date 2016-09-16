@@ -7,16 +7,17 @@ During authentication, a typical biometric system follows a flow whereby:
 1.	A comparison of the captured data occurs, against reference data retrieved from storage.
 1.	An authentication decision is made.
 
-The diagram below depicts 11 points in a system where an attacker could potentially interject into the flow to interfere with the decision<sup>2</sup>. These 11 elements may all be self-contained within a single device (such as a mobile device) or distributed across multiple physical systems.
+The diagram below depicts 11 points in a system where an attacker could potentially interject into the flow to interfere with the decision.<sup>2</sup> These 11 elements may all be self-contained within a single device (such as a mobile device) or distributed across multiple physical systems.
 
 ![](media/attackdiagram.png)
+*Figure 1 – Biometric system attack diagram*
 
 Many of these vulnerabilities fall into familiar categories that are found in other authentication systems, such as protecting data in transit or at rest, and cyber security controls should be used to mitigate such risks for biometric systems in the same way as other information systems. There are two notable vulnerabilities that fall outside the protection that can be provided by core cyber security controls:
 
 - **Presentation Attack (1)** – This marks the point at which an attacker may present a fake biometric to a sensor. The failure rate of the system to detect an imposter making a presentation attack may generally be referred to as the **PADER**.
 - **Override Comparator (6)** – This point of vulnerability relates to the sub-process of the comparator, which is the algorithm that compares an input from the sensor to a stored biometric sample for a user. The performance of the comparator depends on two major factors: how distinctive the biometric pattern is (i.e., the modality's innate features and how many distinct individual patterns may exist) as well as the approach of a vendor's algorithm to analyze the modality.
 
-The focus on these two specific aspects of biometric systems is based on their unique characteristics relating to capturing, processing, and matching data during biometric authentication. We assume that the biometric system incorporates an adequate level of “cyber hygiene” (i.e. core security controls are in place). Failure to maintain proper cyber hygiene will result in a system that can be attacked by non-biometric-specific means and renders any inherent strength of function score invalid. 
+The focus on these two specific aspects of biometric systems is based on their unique characteristics relating to capturing, processing, and matching data during biometric authentication. We assume that the biometric system incorporates an adequate level of “cyber hygiene” (i.e., core security controls are in place). Failure to maintain proper cyber hygiene will result in a system that can be attacked by non-biometric-specific means and renders any inherent strength of function score invalid. 
 
 With these factors taken into consideration, the proposed strength equation is based on isolating the quantifiable aspects of these biometric technologies for a measure of inherent strength. The variables for the strength equation are covered in this document and include:
 
