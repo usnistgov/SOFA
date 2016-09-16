@@ -36,4 +36,3 @@ The equation for a “targeted” attack scenario would be modified to reflect t
 
 ![](media/targetedsofa.png)
 
-<sup>2</sup>Inspired by vulnerability diagram in ISO/IEC 30107-1: 2016 and N.K. Ratha, J.H. Connell, R.M. Bolle, “Enhancing security and privacy in biometrics-based authentication systems,” IBM Systems Journal, Vol 40. NO 3, 2001.
