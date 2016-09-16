@@ -7,6 +7,8 @@ NIST continues to research and develop the proposed SOFA equation to better unde
 
 Feedback is welcomed and highly encouraged as NIST continues this work. This document will be iteratively reviewed and updated based on community feedback. That feedback will be instrumental for determining the appropriate venue for additional work in the future. Comments can be emailed to sofa@nist.gov or posted on GitHub during the public comment periods.
 
+<sup>1</sup>“Advanced Identity Workshop: Applying Measurement Science in the Identity Ecosystem” at NIST’s Gaithersburg, Maryland, campus.
+
 <sup>2</sup>Inspired by vulnerability diagram in ISO/IEC 30107-1: 2016 and N.K. Ratha, J.H. Connell, R.M. Bolle, “Enhancing security and privacy in biometrics-based authentication systems,” IBM Systems Journal, Vol 40. NO 3, 2001.
 
 <sup>3</sup> National Institute of Standards and Technology, “NISTIR 7296 MINEX04: Performance and Interoperability of the INCITS 378 Finger Print Template,” March 21, 2006. http://spin1-www.nist.gov/customcf/get_pdf.cfm?pub_id=150619&_ga=1.248059719.1159721241.1435844400
