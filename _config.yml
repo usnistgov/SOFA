@@ -1,0 +1,44 @@
+# Site settings
+title: SOFA (Draft)
+description: "Public Draft for Strength of Function for Authenticators (SOFA) framework"
+baseurl: "/SOFA" # the subpath of your site, e.g. /blog
+url: "https://pages.nist.gov/" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+exclude:
+- ".ruby-version"
+- ".jekyll-metadata"
+- ".gitignore"
+- ".travis.yml"
+- todo.txt
+- resources
+- Gemfile
+- Gemfile.lock
+- Makefile
+- vendor
+- README.md
+- CONTRIBUTING.md
+- LICENSE.md
+#- SOFA.md
+
+# GitHub information
+org_name: usnistgov
+repo_name: SOFA
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Home
+  url: /SOFA/
+- text: SOFA
+#  url: /800-63-3/sp800-63-3/
+#- text: SP 800-63A
+#  url: /800-63-3/sp800-63a/
+#- text: SP 800-63B
+#  url: /800-63-3/sp800-63b/
+#- text: SP 800-63C
+#  url: /800-63-3/sp800-63c/
+
+host: 0.0.0.0
