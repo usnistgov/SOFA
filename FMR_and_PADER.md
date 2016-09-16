@@ -1,10 +1,12 @@
 ## 3. FMR and PADER Testing
+
 ### 3.1. Matching Error Rates
 Statistical analysis is essential when evaluating the performance and accuracy of matching algorithms and systems. Two characteristics of this analysis are of particular importance: Type 1 and Type 2 errors, or FMR and FNMR, respectively. 
 
 This document focuses on FMR, rather than FNMR, and how it affects the measurement of strength of an authentication system. FNMR can be described as a measure of user inconvenience, while FMR is regarded as a “measure of security.”<sup>3</sup>
 
 ### 3.2. Determining FMR and FNMR
+
 #### 3.2.1. False Match Rate
 A zero-effort imposter attempt occurs when “an individual submits his/her own biometric characteristics as if he/she were attempting successful verification against his/her own template, but the comparison is made against the template of another user.”<sup>4</sup>  FMR is defined as the “proportion of zero-effort imposter attempt samples falsely declared to match the compared non-self template.”<sup>5</sup>  In other words, out of a total number of imposter attempts, the FMR is the percentage of those attempts that improperly result in a match.
 
