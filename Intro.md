@@ -24,7 +24,3 @@ This paper will:
 -	Provide guidance for the **baseline security** required for authentication systems, so that areas not specific to biometric technologies are covered by core security controls **(good cyber hygiene)**.
 
 The framework considers two attack perspectives—“zero-information” and “targeted” attacks. It is modality agnostic, and is intended to be flexible to suit an organization’s own unique environment and needs. 
-
-
-
-<sup>1</sup>“Advanced Identity Workshop: Applying Measurement Science in the Identity Ecosystem” at NIST’s Gaithersburg, Maryland, campus.
