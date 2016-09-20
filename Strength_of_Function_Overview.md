@@ -21,7 +21,7 @@ The focus on these two specific aspects of biometric systems is based on their u
 
 With these factors taken into consideration, the proposed strength equation is based on isolating the quantifiable aspects of these biometric technologies for a measure of inherent strength. The variables for the strength equation are covered in this document and include:
 
-- **FMR and FNMR** - FMR is the probability of a false match occurring during the comparison phase, and likewise, FNMR is the probability of false non-match occurring during the comparison phase. The relevant error rate depends upon the attack scenario, as will be discussed below (the relationship between these errors will be described in the following section).
+- **FMR and FNMR** - FMR is the probability of a false match occurring during the comparison phase, and likewise, FNMR is the probability of false non-match occurring during the comparison phase. The relevant error rate depends upon the attack scenario, as will be discussed below. (The relationship between these errors will be described in the following section).
 - **PADER** - The probability of a successful presentation attack during presentation of the biometric sample.
 - **Effort** - In addition to FMR and PADER, the strength equation includes Effort to account for the combination of time, knowledge, resources, and potential consequences tied to conducting an attack.
 
