@@ -22,7 +22,7 @@ Given organizations’ shift toward developing and implementing biometric soluti
 
 This paper will:
 
--	Present a **strength equation** to represent the **Strength of Function for Authenticators (SOFA)** with a focus on **SOFA-Biometrics (SOFA-B)**. SOFA-B includes variables for **False Match Rate (FMR)**, **Presentation Attack Detection Error Rate (PADER)**, and **Effort** required to perform the attack.
+-	Present a **strength equation** to represent the **Strength of Function for Authenticators (SOFA)** with a focus on **SOFA-Biometrics (SOFA-B)**. SOFA-B includes variables for **False Match Rate (FMR)** and **False Non-Match Rate (FNMR)**, **Presentation Attack Detection Error Rate (PADER)**, and **Effort** required to perform the attack.
 -	Provide guidance for the **baseline security** required for authentication systems, so that areas not specific to biometric technologies are covered by core security controls **(good baseline security)**.
 
 The framework considers two attack perspectives—“zero-information” and “targeted” attacks. It is modality agnostic, and is intended to be flexible to suit an organization’s own unique environment and needs. 
