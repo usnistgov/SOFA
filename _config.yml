@@ -21,7 +21,7 @@ exclude:
 - README.md
 - CONTRIBUTING.md
 - LICENSE.md
-- #SOFA.md
+- #- SOFA.md
 
 # GitHub information
 org_name: usnistgov
