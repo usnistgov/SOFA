@@ -5,7 +5,7 @@ description: "Discussion Draft of Strength of Function for Authenticators - Biom
 ---
 <section class="home home-title" markdown="1">
 
-# Strength of Function for Authenticators - Biometrics (SOFA-B): Discussion Draft Open For Comments!
+# Strength of Function for Authenticators - Biometrics (SOFA-B): Discussion Draft Open For Comments
 
 </section>
 
