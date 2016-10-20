@@ -26,7 +26,7 @@ This document attempts to provide a starting point for the overall SOFA framewor
 
 1. Existing work or artifacts that could inform and advance the project as well as align it with existing standards. 
 
-Commenters are encouraged to provide input through the issue function on GitHub—see this page for details on how to submit a comment. Comments in other forms will be accepted via emails sent to sofa@nist.gov. We request that all commenters provide specific suggested text to address your comments .
+Commenters are encouraged to provide input through the issue function on GitHub — see [this page](comment_help.html) for details on how to submit a comment. Comments in other forms will be accepted via emails sent to sofa@nist.gov. We request that all commenters provide specific suggested text to address your comments.
 
 Finally, we wanted to point out that this is a work in progress and some sections are still under construction. But we are hoping with your active participation we will be able to advance the development of measurement science in the identity space and collaboratively build a framework that can improve the ways in which government and business understand and manage identity risk. 
 
